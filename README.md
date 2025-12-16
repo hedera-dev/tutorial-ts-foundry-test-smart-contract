@@ -20,7 +20,7 @@ A Hedera project template for building and testing Solidity Smart Contracts usin
 ## Prerequisites
 
 ### Hedera Testnet account
-Don't have one? Create one by going to [portal.hedera.com](https://portal.hedera.com/register). This testnet account will recieve 10,000 test HBAR every 24 hours!
+Don't have one? Create one by going to the [Hedera Portal](https://hubs.ly/Q03Yhs330). This testnet account will recieve 10,000 test HBAR every 24 hours!
 
 ## Links
 
